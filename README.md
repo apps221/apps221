@@ -9,7 +9,7 @@ I found my passion for coding in high school and have been coding ever since, I 
 * 🌍  I'm based in Virginia
 * 🖥️  See my portfolio at [Here](http://https://advancedeportfolio.vercel.app/)
 * ✉️  You can contact me at [maggie.a.hong@gmail.com](mailto:maggie.a.hong@gmail.com)
-* 🚀  I'm currently working on [Summarist](http://vercel.com/apps221s-projects/summarist-home-page)
+* 🚀  I'm currently working on [Summarist](https://summarist-home-page-eight.vercel.app/)
 * 🧠  I'm learning Next.Js
 
 ### Skills

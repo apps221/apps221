@@ -4,7 +4,7 @@ Hi 👋 My name is Maggie Hong
 FrontEnd Web Developer
 ----------------------
 
-I found my passion for coding in high school and have been coding ever since, I love making websites and seeing ideas come to life
+I found my passion for coding in high school and have been coding ever since! I love making websites and seeing ideas come to life!
 
 * 🌍  I'm based in Virginia
 * 🖥️  See my portfolio at [Here](http://advancedeportfolio.vercel.app/)
